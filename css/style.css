@@ -22,5 +22,16 @@ min-height: 150px;
 	display: none;
 }
 
-
-
+.align_justify{
+	border: 1px solid #aaa;
+	background: #FFDEAD;
+	padding: 3px;
+	text-align: justify;
+	}
+.myp {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  line-height: 100%;
+  font-size: 9px;
+}
